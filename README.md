@@ -1,2 +1,8 @@
 # Hello-World
-Just another ritual
+
+Kat here.
+
+Boutta dive into some ideas, designs, and programming.  
+
+
+....Long live inspiration and passion \(T_T)/
